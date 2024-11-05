@@ -16,5 +16,5 @@ Ce projet combine l’utilisation de **Linux** et **SQL** pour renforcer la séc
 
 ## Fichier
 
-- [Documentation du projet Linux PDF](./Linux_SQL.pdf)
+- [Documentation du projet Linux PDF](https://github.com/na-elle/Linux_SQL/blob/1fa5aed07e90b76d80a9fd0b92f6cd0590b851e9/Autorisations%20relatives%20aux%20fichiers%20sous%20Linux.pdf)
 - [Documentation du projet SQL PDF](./Linux_SQL.pdf)
